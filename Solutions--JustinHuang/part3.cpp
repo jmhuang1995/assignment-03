@@ -1,3 +1,8 @@
+/* ----------------------------------------------------------------------------
+* Copyright &copy; 2016 Justin Huang <jmhuang1995@gmail.com>
+* Released under the [MIT License] (http://opensource.org/licenses/MIT)
+* ------------------------------------------------------------------------- */
+// A program to show examples of vectors and set
 #include <iostream>
 #include <map>
 #include <set>
