@@ -1,3 +1,8 @@
+/* ----------------------------------------------------------------------------
+* Copyright &copy; 2016 Justin Huang <jmhuang1995@gmail.com>
+* Released under the [MIT License] (http://opensource.org/licenses/MIT)
+* ------------------------------------------------------------------------- */
+// A prgram to find the average grade for a student using exceptions
 #include <iostream>
 #include <exception>
 
