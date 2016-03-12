@@ -1,4 +1,8 @@
-
+/* ----------------------------------------------------------------------------
+* Copyright &copy; 2016 Justin Huang <jmhuang1995@gmail.com>
+* Released under the [MIT License] (http://opensource.org/licenses/MIT)
+* ------------------------------------------------------------------------- */
+// Different programs to practice types of recursive
 #include <iostream>
 using std::cout;
 using std::endl;
